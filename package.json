@@ -1,0 +1,18 @@
+{
+  "name": "christopher-ascii-art",
+  "main": "./lib/christopher-ascii-art",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "christopher-ascii-art:toggle"
+  },
+  "repository": "https://github.com/atom/christopher-ascii-art",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

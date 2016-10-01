@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle christopher-ascii-art",
+        "command": "christopher-ascii-art:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "christopher-ascii-art",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "christopher-ascii-art:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
