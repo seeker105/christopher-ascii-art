@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle christopher-ascii-art",
-        "command": "christopher-ascii-art:toggle"
+        "label": "test christopher-ascii-art",
+        "command": "christopher-ascii-art:convert"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "christopher-ascii-art",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "christopher-ascii-art:toggle"
+              "label": "Convert",
+              "command": "christopher-ascii-art:convert"
             }
           ]
         }

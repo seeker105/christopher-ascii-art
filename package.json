@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "christopher-ascii-art:toggle"
+    "atom-workspace": "christopher-ascii-art:convert"
   },
   "repository": "https://github.com/atom/christopher-ascii-art",
   "license": "MIT",
