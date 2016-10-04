@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "test christopher-ascii-art",
+        "label": "coffee christopher-ascii-art",
         "command": "christopher-ascii-art:convert"
       }
     ]
