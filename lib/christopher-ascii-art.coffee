@@ -12,4 +12,5 @@ module.exports =
     @subscriptions.dispose()
 
   convert: ->
-    console.log 'Convert text!'
+    if editor = atom.workspace.getActiveTextEditor()
+      editor.insertText('Hello, World!')
